@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\ws-vs2019\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {}
+    "C:\\temp\\ws-vs2019\\Estudos\\ProjetoTeste\\ProjetoTeste.csproj": {}
   },
   "projects": {
-    "C:\\temp\\ws-vs2019\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+    "C:\\temp\\ws-vs2019\\Estudos\\ProjetoTeste\\ProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\ws-vs2019\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectUniqueName": "C:\\temp\\ws-vs2019\\Estudos\\ProjetoTeste\\ProjetoTeste.csproj",
         "projectName": "ProjetoTeste",
-        "projectPath": "C:\\temp\\ws-vs2019\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectPath": "C:\\temp\\ws-vs2019\\Estudos\\ProjetoTeste\\ProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\ws-vs2019\\ProjetoTeste\\ProjetoTeste\\obj\\",
+        "outputPath": "C:\\temp\\ws-vs2019\\Estudos\\ProjetoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
