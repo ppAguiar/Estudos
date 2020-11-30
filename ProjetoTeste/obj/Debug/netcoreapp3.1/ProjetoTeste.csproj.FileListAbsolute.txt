@@ -11,3 +11,16 @@ C:\temp\ws-vs2019\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste
 C:\temp\ws-vs2019\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.dll
 C:\temp\ws-vs2019\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.pdb
 C:\temp\ws-vs2019\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.genruntimeconfig.cache
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.exe
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.deps.json
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.runtimeconfig.json
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfo.cs
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\temp\ws-vs2019\Estudos\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.genruntimeconfig.cache
