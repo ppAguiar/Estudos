@@ -1,4 +1,5 @@
 ﻿using ProjetoTeste.Entities.Enuns;
+using System.Collections.Generic;
 
 namespace ProjetoTeste.Entities
 {
@@ -7,6 +8,9 @@ namespace ProjetoTeste.Entities
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
+        public Departament Departament { get; set; }
+
+        public List<HourContract> ListContract { get; private set; } = new List<HourContract>();
 
         public Worker(string name, WorkerLevel level, double baseSalary)
         {
@@ -17,17 +21,27 @@ namespace ProjetoTeste.Entities
 
         public void AddContract(HourContract contract)
         {
-
+            ListContract.Add(contract);
         }
 
         public void RemoveContract(HourContract contract)
         {
-
+            ListContract.Remove(contract);
         }
 
         public double Income(int year, int month)
         {
-            return 0;
+            double sum = BaseSalary;
+            foreach (HourContract contract in ListContract)
+            {
+                if (contract.Date.Year == year && contract.Date.Month == month)
+                {
+                    sum += contract.totalValue();
+                }
+            }
+            return sum;
         }
+
+
     }
 }

@@ -27,12 +27,13 @@ namespace ProjetoTeste
             Console.Write("Base salary: ");
             double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Worker worker = new Worker(name, wl, salary);
+            worker.Departament = dep;
             /*-------------------------------------
              *  Entrada de Contratos
              --------------------------------------*/
             Console.Write("How many contracts to this worker? ");
             int numeroDeContratos = int.Parse(Console.ReadLine());
-
+            HourContract[] vetCont = new HourContract[numeroDeContratos];
             for (int i = 0; i < numeroDeContratos; i++)
             {
                 Console.WriteLine();
@@ -44,15 +45,24 @@ namespace ProjetoTeste
                 Console.Write("Duration (hours): ");
                 int hour = int.Parse(Console.ReadLine());
                 HourContract contract = new HourContract(date, value, hour);
+                worker.AddContract(contract);
             }
-
+            Console.WriteLine();
+            Console.WriteLine("------------------------------");
+            Console.Write("Enter month and year to calculate income (MM/YYYY): ");
+            DateTime dataref = DateTime.Parse(Console.ReadLine());
+            int mes = dataref.Month;
+            int ano = dataref.Year;
             /*-------------------------------------
              *  Impressão de dados
              --------------------------------------*/
             Console.WriteLine();
             Console.WriteLine("------------------------------");
             Console.WriteLine("Name: " + worker.Name);
-            Console.WriteLine(dep);
+            Console.WriteLine(worker.Departament);
+            Console.WriteLine("Incone for " + mes + "/" + ano +  ": " + worker.Income(ano, mes).ToString("F2", CultureInfo.InvariantCulture) );
+            Console.WriteLine();
+            Console.WriteLine("------------------------------");
         }
     }
 }
