@@ -41,7 +41,5 @@ namespace ProjetoTeste.Entities
             }
             return sum;
         }
-
-
     }
 }
