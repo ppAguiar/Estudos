@@ -53,16 +53,15 @@ namespace ControleDeVenda.Entities
             sb.Append("Order moment: ");
             sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
             sb.Append("Order status: ");
-            sb.Append(Status);
-            sb.Append("Client: ");// Alex Green(15 / 03 / 1985) -alex@gmail.com
-            sb.Append(Client);
+            sb.AppendLine(Status.ToString());
+            sb.AppendLine(Client.ToString());
             sb.AppendLine("Order items:");
             foreach (OrderItem i in Items)
             {
                 sb.AppendLine(i.ToString());
             }
             sb.Append("Total price: $");
-            sb.AppendLine(this.Total().ToString("F2", CultureInfo.InvariantCulture));
+            sb.AppendLine(Total().ToString("F2", CultureInfo.InvariantCulture));
 
             return sb.ToString();
         }
