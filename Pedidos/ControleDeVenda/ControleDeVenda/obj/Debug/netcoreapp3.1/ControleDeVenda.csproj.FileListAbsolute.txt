@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\bin\Debug\netcoreapp3.1\ControleDeVenda.exe
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\bin\Debug\netcoreapp3.1\ControleDeVenda.deps.json
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\bin\Debug\netcoreapp3.1\ControleDeVenda.runtimeconfig.json
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\bin\Debug\netcoreapp3.1\ControleDeVenda.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\bin\Debug\netcoreapp3.1\ControleDeVenda.dll
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\bin\Debug\netcoreapp3.1\ControleDeVenda.pdb
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\obj\Debug\netcoreapp3.1\ControleDeVenda.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\obj\Debug\netcoreapp3.1\ControleDeVenda.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\obj\Debug\netcoreapp3.1\ControleDeVenda.AssemblyInfo.cs
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\obj\Debug\netcoreapp3.1\ControleDeVenda.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\obj\Debug\netcoreapp3.1\ControleDeVenda.dll
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\obj\Debug\netcoreapp3.1\ControleDeVenda.pdb
+C:\temp\ws-vs2019\Estudos\Pedidos\ControleDeVenda\ControleDeVenda\obj\Debug\netcoreapp3.1\ControleDeVenda.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ws-vs2019\\Estudos\\Funcionario\\ProjetoTeste\\ProjetoTeste.csproj",
-      "projectName": "ProjetoTeste",
-      "projectPath": "C:\\temp\\ws-vs2019\\Estudos\\Funcionario\\ProjetoTeste\\ProjetoTeste.csproj",
+      "projectUniqueName": "C:\\temp\\ws-vs2019\\Estudos\\Pedidos\\ControleDeVenda\\ControleDeVenda\\ControleDeVenda.csproj",
+      "projectName": "ControleDeVenda",
+      "projectPath": "C:\\temp\\ws-vs2019\\Estudos\\Pedidos\\ControleDeVenda\\ControleDeVenda\\ControleDeVenda.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\ws-vs2019\\Estudos\\Funcionario\\ProjetoTeste\\obj\\",
+      "outputPath": "C:\\temp\\ws-vs2019\\Estudos\\Pedidos\\ControleDeVenda\\ControleDeVenda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
