@@ -41,10 +41,7 @@ namespace ControleDeVenda
 
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine(order.ToString());
-
-
-           
+            Console.WriteLine(order.ToString());           
         }
     }
 }

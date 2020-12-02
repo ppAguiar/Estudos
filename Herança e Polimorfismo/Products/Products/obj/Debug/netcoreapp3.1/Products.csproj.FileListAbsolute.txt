@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\bin\Debug\netcoreapp3.1\Products.exe
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\bin\Debug\netcoreapp3.1\Products.deps.json
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\bin\Debug\netcoreapp3.1\Products.runtimeconfig.json
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\bin\Debug\netcoreapp3.1\Products.runtimeconfig.dev.json
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\bin\Debug\netcoreapp3.1\Products.dll
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\bin\Debug\netcoreapp3.1\Products.pdb
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\obj\Debug\netcoreapp3.1\Products.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\obj\Debug\netcoreapp3.1\Products.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\obj\Debug\netcoreapp3.1\Products.AssemblyInfo.cs
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\obj\Debug\netcoreapp3.1\Products.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\obj\Debug\netcoreapp3.1\Products.dll
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\obj\Debug\netcoreapp3.1\Products.pdb
+C:\temp\ws-vs2019\Estudos\Herança e Polimorfismo\Products\Products\obj\Debug\netcoreapp3.1\Products.genruntimeconfig.cache
