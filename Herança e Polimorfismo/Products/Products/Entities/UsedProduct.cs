@@ -25,10 +25,10 @@ namespace Products.Entities
             sb.Append(Name);
             sb.Append(" (used) $");
             sb.Append(Price.ToString("F2", CultureInfo.InvariantCulture));
-            sb.Append("Manufacture date: ");
+            sb.Append(" (Manufacture date: ");
             sb.Append(ManufactureDate.ToShortDateString());
+            sb.Append(")");
            
-
             return sb.ToString();
 
         }
